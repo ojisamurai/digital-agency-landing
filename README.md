@@ -10,7 +10,7 @@
 - Vanilla JavaScript (без фреймворков)
 
 ## 💻 Демо
-Ссылка: https://вашник.github.io/digital-agency-landing/
+Ссылка: https://ojisamurai.github.io/digital-agency-landing/
 
 ## 📂 Структура
 - `index.html` — главная страница
